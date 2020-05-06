@@ -11,6 +11,37 @@ Do you identify as disabled and have cybersecurity knowledge you'd like to share
 
 DisInfoSec takes place on **Saturday, June 13th, 2020.** It will be hosted via Zoom and broadcasted via Twitch. **All people are welcome to attend, whether or not you're disabled.** Watch this space for more info about presentation times and how to attend, or [fill out this form to be notified when online attendance information becomes available.](https://docs.google.com/forms/d/e/1FAIpQLSfTZZKmW8F4d_mLfXgzTFmqCfpR8cGz-M-XHvXV9uJuVz6JNw/viewform)
 
+## Donate to DisInfoSec!
+
+DisInfoSec is raising funds for organizations that are **run by disabled people** for **disabled people.** 
+
+[Click here to find out how you can donate to DisInfoSec's fund!](donate.md)
+
+![Autistic Self Advocacy Network logo](unnamed.gif)
+
+The Autistic Self Advocacy Network was founded by autistic people to advocate for the rights of autistic people. [Their mission statement from their website is](https://autisticadvocacy.org/about-asan/):
+
+"The Autistic Self Advocacy Network seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. Nothing About Us, Without Us!"
+
+![Autistic Women & Nonbinary Network logo](20200426_145136.jpg)
+
+The Autistic Women & Nonbinary Network was founded by autistic people to advocate for the rights of autistic people who are female or nonbinary. [Their mission statement from their website is](https://awnnetwork.org/about/):
+
+"The mission of Autistic Women & Nonbinary Network (AWN) is to provide community, support, and resources for Autistic women, girls, nonbinary people, and all others of marginalized genders.
+
+AWN Network  is dedicated to building a supportive community where we can share our experiences in an understanding, diverse and inclusive environment. AWN is committed to recognizing and celebrating diversity and the many intersectional experiences in our community.
+
+We welcome all women, transgender and cisgender, non-binary and genderqueer people, Two-Spirit people, people who have at anytime identified as women or girls, and all other people of marginalized genders or of no gender. AWN recognizes and affirms all people’s gender identities and expressions, as well as choices about disclosure, transition, and going stealth.
+
+Our goal is to dispel stereotypes and misinformation which perpetuate unnecessary fears surrounding an autism diagnosis. We seek to share information which works to build acceptance and understanding of disability. Welcome to AWN Network!"
+
+**More disabled-run charities will be added here.**
+
+Some funds will go toward paying disabled event workers and making the event accessible to the Deaf and hard of hearing.
+
+[Click here to find out how you can donate to DisInfoSec's fund!](donate.md)
+
+
 ## Call for Proposals (CFPs)
 
 People with infosec knowledge are welcome to submit a CFP to apply as a speaker during this event, as long as they identify as disabled. [Please use this form to submit your CFP.](https://docs.google.com/forms/d/e/1FAIpQLSdYeIJDFJGqu4GDErNm4I0tQlWC9G0tQqNbWoTji7Nru3T0bw/viewform?usp=sf_link) The deadline for CFPs is **Saturday, May 23rd, 2020 at 8pm EDT (Eastern Daylight Savings Time)** Kim Crawley will notify you by **Wednesday, May 27th, 2020** to inform you about whether or not your proposal was accepted. If your proposal is accepted, Kim will let you know how to prepare for your presentation.
