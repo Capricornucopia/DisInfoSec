@@ -33,7 +33,12 @@ We welcome all women, transgender and cisgender, non-binary and genderqueer peop
 
 Our goal is to dispel stereotypes and misinformation which perpetuate unnecessary fears surrounding an autism diagnosis. We seek to share information which works to build acceptance and understanding of disability. Welcome to AWN Network!"
 
-**More disabled-run charities will be added here.**
+![Council of Canadians with Disabilities logo](Council.png)
+
+The Council of Canadians with Disabilities was founded by disabled people to advocate for Canadians with all disabilities.
+[Their mission statement from their website is](http://ccdonline.ca/en/about/):
+
+"The Council of Canadians with Disabilities (CCD) is a social justice organization of people with all disabilities that champions the voices of people with disabilities, advocating an inclusive and accessible Canada, where people with disabilities have full realization of their human rights, as described in the UN Convention on the Rights of Persons with Disabilities."
 
 Some funds will go toward paying disabled event workers and making the event accessible to the Deaf and hard of hearing.
 
