@@ -15,6 +15,8 @@ DisInfoSec takes place on **Saturday, June 13th, 2020.** It will be hosted via Z
 
 DisInfoSec is raising funds for organizations that are **run by disabled people** for **disabled people.** 
 
+[Click here to donate to our GoFundMe campaign!](https://www.gofundme.com/f/help-disinfosec-raise-funds-for-disability-rights)
+
 ![Autistic Self Advocacy Network logo](unnamed.gif)
 
 The Autistic Self Advocacy Network was founded by autistic people to advocate for the rights of autistic people. [Their mission statement from their website is](https://autisticadvocacy.org/about-asan/):
@@ -42,6 +44,7 @@ The Council of Canadians with Disabilities was founded by disabled people to adv
 
 Some funds will go toward paying disabled event workers and making the event accessible to the Deaf and hard of hearing.
 
+[Click here to donate to our GoFundMe campaign!](https://www.gofundme.com/f/help-disinfosec-raise-funds-for-disability-rights)
 
 ## Call for Proposals (CFPs)
 
