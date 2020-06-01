@@ -11,7 +11,7 @@ Do you identify as disabled and have cybersecurity knowledge you'd like to share
 
 DisInfoSec was originally planned to take place on **Saturday, June 13th, 2020.** 
 
-## An update due to recent international chaos
+## An update due to recent international uprising
 
 The murder of George Floyd at the hands of the Minneapolis Police was the straw that broke the camel's back of decades of police violence, especially targeted to Black people, and the capitalist system's abuse of most of the population. Protests have ignited, first across the United States, then worldwide. I, Kim Crawley, attended the Toronto protest for Regis Korchinski-Paquet on May 30th. She was a BIPOC woman and she was very likely murdered by Toronto Police in her apartment that's distrubingly close to where I live. Like George Floyd, Trayvon Martin, Michael Brown, and countless other Black people, Regis' murder reflects the racism inherent in the history of policing.
 
