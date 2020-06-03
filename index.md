@@ -7,9 +7,9 @@ So the COVID19 pandemic has killed conventional cybersecurity conferences and ev
 
 Do you identify as disabled and have cybersecurity knowledge you'd like to share? DisInfoSec would love to feature you as a speaker! Cybersecurity nerds presenting at DisInfoSec may have any level of experience in their careers, and may be from every infosec specialty, from redteamers to network admins, from SOC analysts to CISOs, from malware researchers to desktop support, from students to teachers, from web application developers to the recently made unemployed.
 
-## Saturday, June 13th or Saturday, July 11th 2020?
+## Saturday, July 11th 2020
 
-DisInfoSec was originally planned to take place on **Saturday, June 13th, 2020.** 
+DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It will now take place on **Saturday, July 11th 2020!**
 
 ## An update due to recent international uprising
 
@@ -17,9 +17,8 @@ The murder of George Floyd at the hands of the Minneapolis Police was the straw 
 
 A wonderful, talented disabled infosec person had a great CFP for DisInfoSec. But she's in Minneapolis, which is now a warzone where cops even shoot white people for merely existing. She told me she would be unable to present on June 13th. She is currently providing first aid to the victims of the carnage which is continuing. I told her that her life and the lives of her loved ones are way more important than DisInfoSec.
 
-DisInfoSec will go on, but I'm considering rescheduling the event for **Saturday July 11th.**
+DisInfoSec will go on, it has now been rescheduled for **Saturday July 11th.**
 
-Please [see my Twitter thread](https://twitter.com/kim_crawley/status/1267448579418923009?s=20) for more details and to vote as to whether or not you'd like DisInfoSec to be rescheduled.
 
 While you're here, please consider donating to a GoFundMe to support Black Lives Matter.
 
@@ -69,7 +68,7 @@ Some funds will go toward paying disabled event workers and making the event acc
 
 People with infosec knowledge are welcome to submit a CFP to apply as a speaker during this event, as long as they identify as disabled. [Please use this form to submit your CFP.](https://docs.google.com/forms/d/e/1FAIpQLSdYeIJDFJGqu4GDErNm4I0tQlWC9G0tQqNbWoTji7Nru3T0bw/viewform?usp=sf_link) 
 
-I have already approved a few excellent CFPs for DisInfoSec. I have extended to deadline for CFPs to **Wednesday, June 10th**, whether or not DisInfoSec is rescheduled.
+I have already approved a few excellent CFPs for DisInfoSec. I have extended to deadline for CFPs to **Wednesday, June 24th**.
 
 ## Am I disabled?
 
