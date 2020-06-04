@@ -27,7 +27,7 @@ While you're here, please consider donating to a GoFundMe to support Black Lives
 * [Justice For Regis (Toronto)](https://www.gofundme.com/f/justice-for-regis)
 * [Black Lives Matter DC Legal Support Fund](https://www.gofundme.com/f/defendblmdc)
 
-Whether or June or July, DisinfoSec will be hosted via Zoom and broadcasted via Twitch and YouTube. **All people are welcome to attend, whether or not you're disabled.** Watch this space for more info about presentation times and how to attend, or [fill out this form to be notified when online attendance information becomes available.](https://docs.google.com/forms/d/e/1FAIpQLSfTZZKmW8F4d_mLfXgzTFmqCfpR8cGz-M-XHvXV9uJuVz6JNw/viewform)
+DisinfoSec will be hosted via Zoom and broadcasted via Twitch and YouTube. **All people are welcome to attend, whether or not you're disabled.** Watch this space for more info about presentation times and how to attend, or [fill out this form to be notified when online attendance information becomes available.](https://docs.google.com/forms/d/e/1FAIpQLSfTZZKmW8F4d_mLfXgzTFmqCfpR8cGz-M-XHvXV9uJuVz6JNw/viewform)
 
 ## Donate to DisInfoSec!
 
