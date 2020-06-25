@@ -11,6 +11,10 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 
 **The schedule will be announced during the last week of June, and YouTube/Twitch links will be available soon.**
 
+## Be notified about DisInffoSec!
+
+[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec and the YouTube/Twitch links.
+
 ## Speakers have officially been announced!
 
 The CFP is closed. Here's the official speaker lineup! In no particular order:
