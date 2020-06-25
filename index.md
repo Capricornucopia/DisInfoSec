@@ -5,29 +5,31 @@
 
 So the COVID19 pandemic has killed conventional cybersecurity conferences and events which meet offline. That's okay, we can have cybersecurity events online! Inspired by [BeerConOne](https://thebeerfarmers.org/beer-con-one-bc1/) and Lesley Carhart's [PancakesCon](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/amp/), cybersecurity blogger Kim Crawley has decided to start an online cybersecurity conference of her own. But this time, the spotlight will be on **disabled people** with infosec knowledge.
 
-Do you identify as disabled and have cybersecurity knowledge you'd like to share? DisInfoSec would love to feature you as a speaker! Cybersecurity nerds presenting at DisInfoSec may have any level of experience in their careers, and may be from every infosec specialty, from redteamers to network admins, from SOC analysts to CISOs, from malware researchers to desktop support, from students to teachers, from web application developers to the recently made unemployed.
-
 ## Saturday, July 11th 2020
 
 DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It will now take place on **Saturday, July 11th 2020!**
 
-## An update due to recent international uprising
+**The schedule will be announced during the last week of June, and YouTube/Twitch links will be available soon.**
 
-The murder of George Floyd at the hands of the Minneapolis Police was the straw that broke the camel's back of decades of police violence, especially targeted to Black people, and the capitalist system's abuse of most of the population. Protests have ignited, first across the United States, then worldwide. I, Kim Crawley, attended the Toronto protest for Regis Korchinski-Paquet on May 30th. She was a BIPOC woman and she was very likely murdered by Toronto Police in her apartment that's disturbingly close to where I live. Like George Floyd, Trayvon Martin, Michael Brown, and countless other Black people, Regis' murder reflects the racism inherent in the history of policing.
+## Speakers have officially been announced!
 
-A wonderful, talented disabled infosec person had a great CFP for DisInfoSec. But she's in Minneapolis, which is now a warzone where cops even shoot white people for merely existing. She told me she would be unable to present on June 13th. She is currently providing first aid to the victims of the carnage which is continuing. I told her that her life and the lives of her loved ones are way more important than DisInfoSec.
+The CFP is closed. Here's the official speaker lineup! In no particular order:
 
-DisInfoSec will go on, it has now been rescheduled for **Saturday July 11th.**
+* Tanya Janca - Purple is the new black: Modern Approaches to Application Security
 
+* Thinker - So you want to start an information security program?
 
-While you're here, please consider donating to a GoFundMe to support Black Lives Matter.
+* Asher Lee - A day in the life of a cyber nerd…
 
-* [COVID-19- GTA (Toronto) BLACK COMMUNITY EMERGENCY SUPPORT FUND](https://www.gofundme.com/f/black-emergency-support-fund)
-* [Black Lives Matter Solidarity Fund NS (Nova Scotia, Canada)](https://www.gofundme.com/f/black-lives-matter-solidarity-fund-ns)
-* [Justice For Regis (Toronto)](https://www.gofundme.com/f/justice-for-regis)
-* [Black Lives Matter DC Legal Support Fund](https://www.gofundme.com/f/defendblmdc)
+* Sirani Alice McNeill -  About malware and reverse engineering on how it impacts users in the cybersecurity format
 
-DisinfoSec will be hosted via Zoom and broadcasted via Twitch and YouTube. **All people are welcome to attend, whether or not you're disabled.** Watch this space for more info about presentation times and how to attend, or [fill out this form to be notified when online attendance information becomes available.](https://docs.google.com/forms/d/e/1FAIpQLSfTZZKmW8F4d_mLfXgzTFmqCfpR8cGz-M-XHvXV9uJuVz6JNw/viewform)
+* Be - How We Win: Neurodiversity for Belonging, Security, and Village
+
+* Spencer Hunley - Ain't No Party Like A CryptoParty: Educating & Teaching Disabled Folx How To Protect Themselves In Digital Spaces
+
+* Michael Mittelman - ePatients: Hacking Healthcare one Community at a Time
+
+* Kim Crawley - Cybersecurity Blogging Greatest Hits
 
 ## Donate to DisInfoSec!
 
@@ -64,31 +66,6 @@ Some funds will go toward paying disabled event workers and making the event acc
 
 [Click here to donate to our GoFundMe campaign!](https://www.gofundme.com/f/help-disinfosec-raise-funds-for-disability-rights)
 
-## Call for Proposals (CFPs)
-
-People with infosec knowledge are welcome to submit a CFP to apply as a speaker during this event, as long as they identify as disabled. [Please use this form to submit your CFP.](https://docs.google.com/forms/d/e/1FAIpQLSdYeIJDFJGqu4GDErNm4I0tQlWC9G0tQqNbWoTji7Nru3T0bw/viewform?usp=sf_link) 
-
-I have already approved a few excellent CFPs for DisInfoSec. I have extended to deadline for CFPs to **Wednesday, June 24th**.
-
-## Am I disabled?
-
-You are disabled if you have a disabling condition **and** self-identify as disabled. No medical documentation is necessary! (Don't share your sensitive medical info with strangers on the internet, that's bad opsec. Ha!) Disabilities can include, **but absolutely aren't limited to** the following:
-
-- Neurodivergent conditions such as autism, ADHD, dyslexia, learning disorders, developmental disabilities, and mental health conditions such as anxiety, dissociative identity disorder, eating disorders, and bipolar disorder.
-
-- Conditions that affect how you sense the world, such as being Deaf or blind.
-
-- Conditions that affect your physical mobility, such as cerebral palsy, amputations, paraplegia, or Parkinson's disease.
-
-- Conditions that affect how you fit into the world, such as Dwarfism.
-
-- Other conditions such as chronic fatigue syndrome or traumatic brain injuries.
-
-Your disabilities may not be on this list. Your disabilities might not be medically diagnosed or recognized by the government. **The most important factor is that you self-identify as disabled. We don't need proof of a disability.**
-
-## Let's make DisInfoSec accessible to as many disabilities as possible!
-
-If you're disabled and you know how an online streaming video event can be made more accessible for you, [please submit your ideas in this form.](https://docs.google.com/forms/d/e/1FAIpQLScc90kqggCMwmYvulv-otFO1CdhJlbr97EVZDWs_SN78YSknQ/viewform?usp=sf_link) We're already considering transcriptions and American Sign Language for Deaf people and descriptive audio for blind people. If you have ideas for implementing that, or if there are ways that DisInfoSec can be accessible for other disabilities, [please submit your ideas in this form.](https://docs.google.com/forms/d/e/1FAIpQLScc90kqggCMwmYvulv-otFO1CdhJlbr97EVZDWs_SN78YSknQ/viewform?usp=sf_link)
 
 ## Who is DisInfoSec?
 
