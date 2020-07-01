@@ -14,7 +14,7 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 - Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
 - YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
 
-## DisInfoSec Schedule
+## DisInfoSec Time Zone Guide
 
 - EDT = Eastern Daylight Time (Toronto, New York City)
 - CDT = Central Daylight Time (Winnipeg, Chicago)
@@ -23,6 +23,7 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 - BST = British Summer Time (London, Glasgow)
 - CEST = Central European Summer Time (Paris, Rome, Malta)
 
+## DisInfoSec Schedule
 
 - DisInfoSec Intro, featuring Kim Crawley 09:40 EDT/8:40 CDT/6:40 PDT/11:40 AEST/14:40 BST/15:40 CEST
 
@@ -52,6 +53,10 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 
 - Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
 - YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
+
+## Accessibility Note
+
+If you're blind, you can enjoy the video streaming event as if it were a podcast. All visuals will be described in audio. If you're Deaf or hard of hearing, live auto-capitioning will be provided both through Twitch and YouTube.
 
 ## Donate to DisInfoSec!
 
