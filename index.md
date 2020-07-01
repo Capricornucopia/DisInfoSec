@@ -11,17 +11,18 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 
 ## Tune into DisInfoSec!
 
-Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
-YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
+- Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
+- YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
 
 ## DisInfoSec Schedule
 
-EDT = Eastern Daylight Time (Toronto, New York City)
-CDT = Central Daylight Time (Winnipeg, Chicago)
-PDT = Pacific Daylight Time (Vancouver, Los Angeles)
-AEST = Australian Eastern Standard Time (Sydney, Melbourne)
-BST = British Summer Time (London, Glasgow)
-CEST = Central European Summer Time (Paris, Rome, Malta)
+- EDT = Eastern Daylight Time (Toronto, New York City)
+- CDT = Central Daylight Time (Winnipeg, Chicago)
+- PDT = Pacific Daylight Time (Vancouver, Los Angeles)
+- AEST = Australian Eastern Standard Time (Sydney, Melbourne)
+- BST = British Summer Time (London, Glasgow)
+- CEST = Central European Summer Time (Paris, Rome, Malta)
+
 
 - DisInfoSec Intro, featuring Kim Crawley 09:40 EDT/8:40 CDT/6:40 PDT/11:40 AEST/14:40 BST/15:40 CEST
 
@@ -49,8 +50,8 @@ CEST = Central European Summer Time (Paris, Rome, Malta)
 
 ## Tune into DisInfoSec!
 
-Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
-YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
+- Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
+- YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
 
 ## Donate to DisInfoSec!
 
