@@ -9,31 +9,48 @@ So the COVID19 pandemic has killed conventional cybersecurity conferences and ev
 
 DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It will now take place on **Saturday, July 11th 2020!**
 
-**The schedule will be announced during the last week of June, and YouTube/Twitch links will be available soon.**
+## Tune into DisInfoSec!
+
+Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
+YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
+
+## DisInfoSec Schedule
+
+EDT = Eastern Daylight Time (Toronto, New York City)
+CDT = Central Daylight Time (Winnipeg, Chicago)
+PDT = Pacific Daylight Time (Vancouver, Los Angeles)
+AEST = Australian Eastern Standard Time (Sydney, Melbourne)
+BST = British Summer Time (London, Glasgow)
+CEST = Central European Summer Time (Paris, Rome, Malta)
+
+- DisInfoSec Intro, featuring Kim Crawley 09:40 EDT/8:40 CDT/6:40 PDT/11:40 AEST/14:40 BST/15:40 CEST
+
+- Asher Lee - A day in the life of a cyber nerd… 10:05 EDT/9:05 CDT/7:05 PDT/00:05 AEST/15:05 BST/16:05 CEST
+
+- Sirani Alice McNeill - About malware and reverse engineering on how it impacts users in the cybersecurity format  11:05 EDT/10:05 CDT/8:05 PDT/01:05 AEST/16:05 BST/17:05 CEST
+
+- Kim Crawley - Cybersecurity Blogging Greatest Hits 12:00 EDT/11:00 CDT/9:00 PDT/02:00 AEST/17:00 BST/18:00 CEST
+
+- Thinker - So you want to start an information security program?  12:30 EDT/11:30 CDT/9:30 PDT/02:30 AEST/17:30 BST/18:30 CEST
+
+- Spencer Hunley - Ain’t No Party Like A CryptoParty: Educating & Teaching Disabled Folx How To Protect Themselves In Digital Spaces  13:05 EDT/12:05 CDT/10:05 PDT/03:05 AEST/18:05 BST/19:05 CEST
+
+- Tanya Janca - Purple is the new black: Modern Approaches to Application Security 13:35 EDT/12:35 CDT/10:35 PDT/03:35 AEST/18:35 BST/19:35 CEST
+
+- Michael Mittelman - ePatients: Hacking Healthcare one Community at a Time  14:35 EDT/13:35 CDT/11:35 PDT/04:35 AEST/19:35 BST/20:35 CEST
+
+- Be - How We Win: Neurodiversity for Belonging, Security, and Village  15:05 EDT/14:05 CDT/12:05 PDT/05:05 AEST/20:05 BST/21:05 CEST
+
+- DisInfoSec Outro, featuring Kim Crawley 16:05 EDT/15:05 CDT/13:05 PDT/06:05 AEST/21:05 BST/22:05 CEST
 
 ## Be notified about DisInfoSec!
 
 [Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec and the YouTube/Twitch links.
 
-## Speakers have officially been announced!
+## Tune into DisInfoSec!
 
-The CFP is closed. Here's the official speaker lineup! In no particular order:
-
-* Tanya Janca - Purple is the new black: Modern Approaches to Application Security
-
-* Thinker - So you want to start an information security program?
-
-* Asher Lee - A day in the life of a cyber nerd…
-
-* Sirani Alice McNeill -  About malware and reverse engineering on how it impacts users in the cybersecurity format
-
-* Be - How We Win: Neurodiversity for Belonging, Security, and Village
-
-* Spencer Hunley - Ain't No Party Like A CryptoParty: Educating & Teaching Disabled Folx How To Protect Themselves In Digital Spaces
-
-* Michael Mittelman - ePatients: Hacking Healthcare one Community at a Time
-
-* Kim Crawley - Cybersecurity Blogging Greatest Hits
+Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
+YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
 
 ## Donate to DisInfoSec!
 
@@ -75,4 +92,4 @@ Some funds will go toward paying disabled event workers and making the event acc
 
 ![image of Kim Crawley](KimShot_DisInfoSec.jpg)
 
-DisInfoSec was founded and is organized by **Kim Crawley**, an autistic cybersecurity blogger. More personnel will be added to this section as event organization progresses.
+DisInfoSec was founded and is organized by **Kim Crawley**, an autistic cybersecurity blogger. 
