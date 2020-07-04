@@ -14,6 +14,8 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 - Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
 - YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
 
+Note for Deaf participants: auto-capitioning only works on Twitch.
+
 ## DisInfoSec Time Zone Guide
 
 - EDT = Eastern Daylight Time (Toronto, New York City)
@@ -47,16 +49,20 @@ DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It 
 
 ## Be notified about DisInfoSec!
 
-[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec and the YouTube/Twitch links.
+[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec.
 
 ## Tune into DisInfoSec!
 
 - Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
 - YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
 
+Note for Deaf participants: auto-capitioning only works on Twitch.
+
 ## Accessibility Note
 
-If you're blind, you can enjoy the video streaming event as if it were a podcast. All visuals will be described in audio. If you're Deaf or hard of hearing, live auto-capitioning will be provided both through Twitch and YouTube.
+If you're blind, you can enjoy the video streaming event as if it were a podcast. All visuals will be described in audio. If you're Deaf or hard of hearing, live auto-capitioning will be provided both through Twitch only.
+
+We will do our best to avoid content that could trigger photo-sensitive seizures in epileptic viewers.
 
 ## Donate to DisInfoSec!
 
