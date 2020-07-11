@@ -41,7 +41,7 @@ Note for Deaf participants: auto-capitioning only works on Twitch.
 
 - Tanya Janca - Purple is the new black: Modern Approaches to Application Security 13:35 EDT/12:35 CDT/10:35 PDT/03:35 AEST/18:35 BST/19:35 CEST
 
-- Michael Mittelman - ePatients: Hacking Healthcare one Community at a Time  14:35 EDT/13:35 CDT/11:35 PDT/04:35 AEST/19:35 BST/20:35 CEST
+- Michael Mittelman featuring Andrea Downing - ePatients: Hacking Healthcare one Community at a Time  14:35 EDT/13:35 CDT/11:35 PDT/04:35 AEST/19:35 BST/20:35 CEST
 
 - Be - How We Win: Neurodiversity for Belonging, Security, and Village  15:05 EDT/14:05 CDT/12:05 PDT/05:05 AEST/20:05 BST/21:05 CEST
 
