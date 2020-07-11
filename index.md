@@ -1,29 +1,30 @@
 ![DisInfoSec](DisInfoSec_Logo.png)
 
+## DisInfoSec was a smash success!
+
+The event happened on Saturday, July 11th, 2020. We had a lot of great talks, and we raised $685 CAD for the Autistic Self Advocacy Network, the Autistic Women and Nonbinary Network, and the Council of Canadians with Disabilities, which will be split evenly between the three orgs.
+
+Good job, everyone!
+
+For legacy's sake, we will leave the schedule up on this site.
+
+## YouTube clips coming soon!
+
+If you missed DisInfoSec live, all isn't lost. We will upload as much content as we can to YouTube, so you can watch our talks whenever you want. Watch this space!
+
+## See you next year?
+
+I, Kim Crawley, am now seriously considering doing more DisInfoSec events in the future. What do you think? I will keep the mailing list open, and you can be notified if there's another event six months to a year from now.
+
+
+## Be notified about DisInfoSec!
+
+[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec.
+
 
 ## DisInfoSec is an online cybersecurity conference featuring disabled speakers
 
 So the COVID19 pandemic has killed conventional cybersecurity conferences and events which meet offline. That's okay, we can have cybersecurity events online! Inspired by [BeerConOne](https://thebeerfarmers.org/beer-con-one-bc1/) and Lesley Carhart's [PancakesCon](https://tisiphone.net/2020/03/15/pancakescon-2020-quarantine-edition/amp/), cybersecurity blogger Kim Crawley has decided to start an online cybersecurity conference of her own. But this time, the spotlight will be on **disabled people** with infosec knowledge.
-
-## Saturday, July 11th 2020
-
-DisInfoSec was originally planned to take place on Saturday, June 13th 2020. It will now take place on **Saturday, July 11th 2020!**
-
-## Tune into DisInfoSec!
-
-- Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
-- YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
-
-Note for Deaf participants: auto-capitioning only works on Twitch.
-
-## DisInfoSec Time Zone Guide
-
-- EDT = Eastern Daylight Time (Toronto, New York City)
-- CDT = Central Daylight Time (Winnipeg, Chicago)
-- PDT = Pacific Daylight Time (Vancouver, Los Angeles)
-- AEST = Australian Eastern Standard Time (Sydney, Melbourne)
-- BST = British Summer Time (London, Glasgow)
-- CEST = Central European Summer Time (Paris, Rome, Malta)
 
 ## DisInfoSec Schedule
 
@@ -51,24 +52,10 @@ Note for Deaf participants: auto-capitioning only works on Twitch.
 
 [Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec.
 
-## Tune into DisInfoSec!
 
-- Twitch: [https://www.twitch.tv/disinfosec](https://www.twitch.tv/disinfosec)
-- YouTube: [https://www.youtube.com/c/KimberlyCrawley/live](https://www.youtube.com/c/KimberlyCrawley/live)
+## Here's information about the orgs our fundraiser supported
 
-Note for Deaf participants: auto-capitioning only works on Twitch.
-
-## Accessibility Note
-
-If you're blind, you can enjoy the video streaming event as if it were a podcast. All visuals will be described in audio. If you're Deaf or hard of hearing, live auto-capitioning will be provided both through Twitch only.
-
-We will do our best to avoid content that could trigger photo-sensitive seizures in epileptic viewers.
-
-## Donate to DisInfoSec!
-
-DisInfoSec is raising funds for organizations that are **run by disabled people** for **disabled people.** 
-
-[Click here to donate to our GoFundMe campaign!](https://www.gofundme.com/f/help-disinfosec-raise-funds-for-disability-rights)
+DisInfoSec is raised funds for organizations that are **run by disabled people** for **disabled people.** 
 
 ![Autistic Self Advocacy Network logo](unnamed.gif)
 
@@ -94,10 +81,6 @@ The Council of Canadians with Disabilities was founded by disabled people to adv
 [Their mission statement from their website is](http://ccdonline.ca/en/about/):
 
 "The Council of Canadians with Disabilities (CCD) is a social justice organization of people with all disabilities that champions the voices of people with disabilities, advocating an inclusive and accessible Canada, where people with disabilities have full realization of their human rights, as described in the UN Convention on the Rights of Persons with Disabilities."
-
-Some funds will go toward paying disabled event workers and making the event accessible to the Deaf and hard of hearing.
-
-[Click here to donate to our GoFundMe campaign!](https://www.gofundme.com/f/help-disinfosec-raise-funds-for-disability-rights)
 
 
 ## Who is DisInfoSec?
