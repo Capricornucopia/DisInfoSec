@@ -27,7 +27,7 @@ Note for Deaf participants: auto-capitioning only works on Twitch.
 
 ## DisInfoSec Schedule
 
-- DisInfoSec Intro, featuring Kim Crawley 09:40 EDT/8:40 CDT/6:40 PDT/11:40 AEST/14:40 BST/15:40 CEST
+- DisInfoSec Intro, featuring Kim Crawley 09:40 EDT/8:40 CDT/6:40 PDT/23:40 AEST/14:40 BST/15:40 CEST
 
 - Asher Lee - A day in the life of a cyber nerd… 10:05 EDT/9:05 CDT/7:05 PDT/00:05 AEST/15:05 BST/16:05 CEST
 
