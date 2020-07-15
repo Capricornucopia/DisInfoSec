@@ -8,9 +8,10 @@ Good job, everyone!
 
 For legacy's sake, we will leave the schedule up on this site.
 
-## YouTube clips coming soon!
+## YouTube clips are here!
 
-If you missed DisInfoSec live, all isn't lost. We will upload as much content as we can to YouTube, so you can watch our talks whenever you want. Watch this space!
+If you missed DisInfoSec live, all isn't lost. The entire event can be enjoyed whenever you want, [through all nine video clips uploaded to YouTube](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)
+! [Click here to check out the playlist](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L).
 
 ## See you next year?
 
