@@ -10,7 +10,7 @@ This year, we will feature more disabled people talking about cybersecurity. No 
 
 I, Kim Crawley, learned a lot from running last year's event. We had a lot of great speakers, as you can read from last year's schedule. But the video stream could be glitchy at times, and my smoke detector wouldn't stop beeping! Hahaha. This year, we can work out some of the bugs.
 
-I am delighted by the overwheliming postive reception we have received. So I'm bringing DisInfoSec 2021 together due to popular demand. 
+I am delighted by the overwhelming postive reception we have received. So I'm bringing DisInfoSec 2021 together due to popular demand. 
 
 ## Call for Proposals
 
@@ -60,9 +60,6 @@ If you're interested in the job, please email Kim Crawley at runnymede13@gmail.c
 
 If you missed DisInfoSec live, all isn't lost. The entire event can be enjoyed whenever you want, [through all nine video clips uploaded to YouTube](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)! [Click here to check out the playlist](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L).
 
-## See you next year?
-
-I, Kim Crawley, am now seriously considering doing more DisInfoSec events in the future. What do you think? I will keep the mailing list open, and you can be notified if there's another event six months to a year from now.
 
 
 ## Be notified about DisInfoSec!
