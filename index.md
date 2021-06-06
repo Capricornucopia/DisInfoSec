@@ -12,6 +12,10 @@ I, Kim Crawley, learned a lot from running last year's event. We had a lot of gr
 
 I am delighted by the overwhelming postive reception we have received. So I'm bringing DisInfoSec 2021 together due to popular demand. 
 
+## Follow us on Twitter
+
+Visit [@DisInfosec on Twitter](https://twitter.com/DisInfoSec).
+
 ## Call for Proposals
 
 So I'm launching our CFP on June 6th. [Please submit them through this form](https://docs.google.com/forms/d/e/1FAIpQLSdYeIJDFJGqu4GDErNm4I0tQlWC9G0tQqNbWoTji7Nru3T0bw/viewform?usp=sf_link).
