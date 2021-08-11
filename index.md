@@ -26,13 +26,17 @@ All applicants will be notified about CFP approval on Friday, August 27th.
 
 ## Raising Funds
 
-DisInfoSec is a completely free online event, simulcasted with live captioning on Twitch and YouTube.
+DisInfoSec 2021 will encourage participants ans spectators who can afford to do so to donate to three disabled people directly. I can acknowledge that sometimes charities rub by disabled people can do good work. But alas, this year I'm disillusioned by the charity model. Giving money to people directly is the best way to help a person. Unless your aims are to do something which requires a lot of money and collective effort, such as cancer research.
 
-But if you can afford to donate money to a good cause, we welcome it.
+This tweet from our Twitter account will explain how you can help. And once all the details have been verified, we will update our website with donation info accordingly: [Here is the tweet.](https://twitter.com/DisInfoSec/status/1425593209351192583?s=09)
 
-Last year, we raised money for the Autistic Self Advocacy Network, the Autistic Women and Nonbinary Network, and the Council for Canadians with Disabilities. This year, I want to consider supporting some other organizations. The prequisite is that the organization must be 100% run by disabled people.
+Ashe Grey a.k.a. @crippledscholar needs a service dog. [Here's their GoFundMe.](https://www.gofundme.com/f/get-an-autism-and-anxiety-service-dog-for-kim)
 
-I welcome your suggestions for disabled person-run organizations to support. Please email me at runnymede13@gmail.com.
+Moira is autistic and has ADHD. [Contact her directly on Twitter for payment info.]
+(https://twitter.com/MoiraDavrie)
+
+Eve Banshee is autistic and she really needs the funds in order to live a decent quality of life. [Her Venmo and Cash App details are here.]
+(https://twitter.com/EveBanshee/status/1420619628359798784)
 
 ## Job Posting
 
