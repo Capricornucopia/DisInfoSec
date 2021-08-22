@@ -12,6 +12,21 @@ I, Kim Crawley, learned a lot from running last year's event. We had a lot of gr
 
 I am delighted by the overwhelming postive reception we have received. So I'm bringing DisInfoSec 2021 together due to popular demand. 
 
+## We have a corporate sponsor!
+
+Thank you MongoDB! Your generous donation will go toward paying our video stream director, paying for Zoom and related technical services, and the balance will be divided between the disabled people we are raising funds for this year.
+
+![MongoDB Logo](MongoDBsponsor.png)
+
+MongoDB will get lots of shoutouts during the event. It's great to see a tech company show their love for disabled people in our industry.
+
+## We have a video stream director!
+
+Welcome Chloe "FlyingKaida" on board as our very first employee. She will be running our video stream behind the scenes. 
+
+Check out her [YouTube](https://www.youtube.com/channel/UC_jgy0f-DMr7NXC0afjzUbQ) and [Twitch](https://www.twitch.tv/flyingkaida) channels when you have a chance.
+
+
 ## Follow us on Twitter
 
 Visit [@DisInfosec on Twitter](https://twitter.com/DisInfoSec).
@@ -38,30 +53,6 @@ Moira is autistic and has ADHD. [Contact her directly on Twitter for payment inf
 Eve Banshee is autistic and she really needs the funds in order to live a decent quality of life. [Her Venmo and Cash App details are here.]
 (https://twitter.com/EveBanshee/status/1420619628359798784)
 
-## Job Posting
-
-This year, I can afford to pay a couple of people out of my own pocket to help make DisInfoSec a success. 
-
-Here's what we need...
-
-**Video Stream Director**
-
-We need someone with experience with Twitch and YouTube streaming through OBS Studio and Restream.io. Experience with live capitioning plugins is a bonus. 
-You will work about two to four hours in **the week before September 18th** setting up our video stream, and about five to seven hours **on September 18th** to help keep things running well during the event. 
-
-You will be paid a total of $400.00 CAD (Canadian dollars) for your labour, with $200.00 paid before the event, and $200.00 paid after. Payment can be made via PayPal, Interac Etransfer, or certified cheque/check in your local currency. 
-
-If you're interested in the job, please email Kim Crawley at runnymede13@gmail.com by Wednesday, August 25th, 2021 at the latest.
-
-**Sign Language Interpreter**
-
-I would love to fill this position, because using sign language can be a better accessibility solution than live captioning alone.
-
-If we can find a sign language interpreter, profeciency in American Sign Language and/or British Sign Language is a plus. You will be working about five to seven hours on September 18th.
-
-You will be paid a total of $400.00 CAD (Canadian dollars) for your labour, with $200.00 paid before the event, and $200.00 paid after. Payment can be made via PayPal, Interac Etransfer, or certified cheque/check in your local currency. 
-
-If you're interested in the job, please email Kim Crawley at runnymede13@gmail.com by Wednesday, August 25th, 2021 at the latest.
 
 
 ## DisInfoSec 2020 YouTube clips are here!
