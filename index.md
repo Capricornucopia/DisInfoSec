@@ -14,11 +14,11 @@ I am delighted by the overwhelming postive reception we have received. So I'm br
 
 ## We have a corporate sponsor!
 
-Thank you MongoDB! Your generous donation will go toward paying our video stream director, paying for Zoom and related technical services, and the balance will be divided between the disabled people we are raising funds for this year.
+Thank you mongoDB! Your generous donation will go toward paying our video stream director, paying for Zoom and related technical services, and the balance will be divided between the disabled people we are raising funds for this year.
 
 ![MongoDB Logo](MongoDBsponsor.png)
 
-MongoDB will get lots of shoutouts during the event. It's great to see a tech company show their love for disabled people in our industry.
+mongoDB will get lots of shoutouts during the event. It's great to see a tech company show their love for disabled people in our industry.
 
 ## We have a video stream director!
 
