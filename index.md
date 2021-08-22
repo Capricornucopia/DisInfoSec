@@ -49,8 +49,7 @@ Ashe Grey a.k.a. @crippledscholar needs a service dog. [Here's their GoFundMe.](
 
 Moira is autistic and has ADHD. [Contact her directly on Twitter for payment info.](https://twitter.com/MoiraDavrie)
 
-Eve Banshee is autistic and she really needs the funds in order to live a decent quality of life. 
-[Her Venmo and Cash App details are here.](https://twitter.com/EveBanshee/status/1420619628359798784)
+Eve Banshee is autistic and she really needs the funds in order to live a decent quality of life. [Her Venmo and Cash App details are here.](https://twitter.com/EveBanshee/status/1420619628359798784)
 
 
 
