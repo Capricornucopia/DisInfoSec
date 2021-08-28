@@ -33,11 +33,7 @@ Visit [@DisInfosec on Twitter](https://twitter.com/DisInfoSec).
 
 ## Call for Proposals
 
-So I'm launching our CFP on June 6th. [Please submit them through this form](https://docs.google.com/forms/d/e/1FAIpQLSdYeIJDFJGqu4GDErNm4I0tQlWC9G0tQqNbWoTji7Nru3T0bw/viewform?usp=sf_link).
-
-You have until Wednesday, August 25th, 2021 to submit a proposal. Don't be shy! Newbies are welcomed. I accepted all of the CFPs I got last year. I don't need "proof" of disability, self-identification as disabled is fine. If you have good ideas and something to say, I welcome your input.
-
-All applicants will be notified about CFP approval on Friday, August 27th.
+Our CFP is now closed. We will post an event schedule very soon. Please look forward to it!
 
 ## Raising Funds
 
