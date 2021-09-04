@@ -31,9 +31,38 @@ Check out her [YouTube](https://www.youtube.com/channel/UC_jgy0f-DMr7NXC0afjzUbQ
 
 Visit [@DisInfosec on Twitter](https://twitter.com/DisInfoSec).
 
-## Call for Proposals
+## Tune in on Saturday, September 18th, 2021
 
-Our CFP is now closed. We will post an event schedule very soon. Please look forward to it!
+Refer to the schedule below. 
+
+Watch the event live on [YouTube](https://www.youtube.com/channel/UCeBIiv8CswqxhkAREVO5A3Q) or [Twitch](https://www.twitch.tv/disinfosec) by clicking on the links. Auto-captioning is available. (Sorry we couldn't find a sign language interpreter, no one applied for the job.)
+
+## DisInfoSec 2021 Schedule
+
+Welcoming Introduction by Kim Crawley 10:25am EDT/9:25am CDT/7:25am PDT
+
+Rodrigo Ferreira - Cybercrime Underground: A Look From Inside 10:30am EDT/9:30am CDT/7:30am PDT
+
+Larisa Breton - Squirrel!!! Navigating Cybersecurity with a Cognitive Disability 10:50am EDT/9:50am CDT/7:50am PDT
+
+Kim Crawley - 8 Steps to Better Security: Book Preview 11:30am EDT/10:30am CDT/8:30am PDT
+
+Kiran Oliver - Leveraging Neurodivergence in InfoSec 12:10pm EDT/11:10am CDT/9:10pm PDT
+
+Jess Schalz - On-Call Exhaustion, Tightropes, and You 12:50pm EDT/11:50am CDT/9:50am PDT
+
+Jessica Tubbs - Spin Class: A Neurodiverse Hacker's Guide to Career Advancement 1:30pm EDT/12:30pm CDT/10:30am PDT
+
+Kat Sweet - Dietary Accessibility in Tech Workplaces 2:30pm EDT/1:30pm CDT/11:30pm PDT
+
+Kelly Bron Johnson - Cyber Safety Program for Autistic People 3:20pm EDT/2:20pm CDT/12:20pm PDT
+
+Catherine De Mesa - Impostor Syndrome vs Bad HR: Maximizing Your Job Hunt 4:00pm EDT/3:00pm CDT/1:00pm PDT
+
+Florian Beijers - Hacking Blind: On Hacking with a Screenreader 4:40pm EDT/3:40pm CDT/1:40pm PDT
+
+Closing Chat by Kim Crawley 5:00pm EDT/4:00pm CDT/2:00pm PDT
+
 
 ## Raising Funds
 
