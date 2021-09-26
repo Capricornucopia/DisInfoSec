@@ -1,24 +1,36 @@
 ![DisInfoSec](DisInfoSec_Logo.png)
 
+## Look forward to DisInfoSec 2022
+
+DisInfoSec 2022 will take place sometime in September 2022. Our CFP will be announced a few months before the event. 
+
+If you want updates in 2022, subscribe to [our mailing list]((https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/)) or [follow our Twitter](https://twitter.com/DisInfoSec).
+
 ## DisInfoSec 2021, Saturday September 18th
 
-The first DisInfoSec happened on Saturday, July 11th, 2020. 
+DisInfoSec 2021 took place on Saturday, September 18th, 2021.
 
-Well, guess what? It's official. DisInfoSec 2021 is on! The tentative date is Saturday, September 18th, 2021.
+## Watch DisInfoSec 2021 on YouTube
 
-This year, we will feature more disabled people talking about cybersecurity. No professional experience is required, as long as you have something to say. We will provide subtitles and all content in descriptive audio to make our event accessible to Deaf and blind people. 
+All DisInfoSec 2021 videos are now on YouTube to watch whenever you want.
 
-I, Kim Crawley, learned a lot from running last year's event. We had a lot of great speakers, as you can read from last year's schedule. But the video stream could be glitchy at times, and my smoke detector wouldn't stop beeping! Hahaha. This year, we can work out some of the bugs.
+Here's the [playlist of nine videos!](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuSClAlcw-Whu9Gjng6UOML) Enjoy.
 
-I am delighted by the overwhelming postive reception we have received. So I'm bringing DisInfoSec 2021 together due to popular demand. 
+## Be notified about DisInfoSec!
 
-## We have a corporate sponsor!
+[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec.
 
-Thank you mongoDB! Your generous donation will go toward paying our video stream director, paying for Zoom and related technical services, and the balance will be divided between the disabled people we are raising funds for this year.
+## We have corporate sponsors!
+
+Thank you mongoDB! Your generous donation went to paying our video stream director, paying for Zoom and related technical services, and the balance was divided between the disabled people we were raising funds for this year.
 
 ![MongoDB Logo](MongoDBsponsor.png)
 
-mongoDB will get lots of shoutouts during the event. It's great to see a tech company show their love for disabled people in our industry.
+It's great to see a tech company show their love for disabled people in our industry.
+
+![Hack The box logo](HTB.jpg)
+
+Thank you Hack The Box for providing VIP+ memberships and Swag cards to our presenters and six lucky attendees.
 
 ## We have a video stream director!
 
@@ -31,11 +43,10 @@ Check out her [YouTube](https://www.youtube.com/channel/UC_jgy0f-DMr7NXC0afjzUbQ
 
 Visit [@DisInfosec on Twitter](https://twitter.com/DisInfoSec).
 
-## Tune in on Saturday, September 18th, 2021
+## Discord
 
-Refer to the schedule below. 
+Moira Davrie set up a Discord channel for DisInfoSec. Click here for it.
 
-Watch the event live on [YouTube](https://www.youtube.com/channel/UCeBIiv8CswqxhkAREVO5A3Q) or [Twitch](https://www.twitch.tv/disinfosec) by clicking on the links. Auto-captioning is available. (Sorry we couldn't find a sign language interpreter, no one applied for the job.)
 
 ## DisInfoSec 2021 Schedule
 
@@ -55,8 +66,6 @@ Jessica Tubbs - Spin Class: A Neurodiverse Hacker's Guide to Career Advancement 
 
 Kat Sweet - Dietary Accessibility in Tech Workplaces 2:30pm EDT/1:30pm CDT/11:30pm PDT
 
-Kelly Bron Johnson - Cyber Safety Program for Autistic People 3:20pm EDT/2:20pm CDT/12:20pm PDT
-
 Catherine De Mesa - Impostor Syndrome vs Bad HR: Maximizing Your Job Hunt 4:00pm EDT/3:00pm CDT/1:00pm PDT
 
 Florian Beijers - Hacking Blind: On Hacking with a Screenreader 4:40pm EDT/3:40pm CDT/1:40pm PDT
@@ -64,30 +73,10 @@ Florian Beijers - Hacking Blind: On Hacking with a Screenreader 4:40pm EDT/3:40p
 Closing Chat by Kim Crawley 5:00pm EDT/4:00pm CDT/2:00pm PDT
 
 
-## Raising Funds
-
-DisInfoSec 2021 will encourage participants ans spectators who can afford to do so to donate to three disabled people directly. I can acknowledge that sometimes charities rub by disabled people can do good work. But alas, this year I'm disillusioned by the charity model. Giving money to people directly is the best way to help a person. Unless your aims are to do something which requires a lot of money and collective effort, such as cancer research.
-
-This tweet from our Twitter account will explain how you can help. And once all the details have been verified, we will update our website with donation info accordingly: [Here is the tweet.](https://twitter.com/DisInfoSec/status/1425593209351192583?s=09)
-
-Ashe Grey a.k.a. @crippledscholar needs a service dog. [Here's their GoFundMe.](https://www.gofundme.com/f/get-an-autism-and-anxiety-service-dog-for-kim)
-
-Moira is autistic and has ADHD. [Contact her directly on Twitter for payment info.](https://twitter.com/MoiraDavrie)
-
-Eve Banshee is autistic and she really needs the funds in order to live a decent quality of life. [Her Venmo and Cash App details are here.](https://twitter.com/EveBanshee/status/1420619628359798784)
-
-
 
 ## DisInfoSec 2020 YouTube clips are here!
 
 If you missed DisInfoSec live, all isn't lost. The entire event can be enjoyed whenever you want, [through all nine video clips uploaded to YouTube](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)! [Click here to check out the playlist](https://www.youtube.com/playlist?list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L).
-
-
-
-## Be notified about DisInfoSec!
-
-[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec.
-
 
 
 
@@ -112,11 +101,6 @@ If you missed DisInfoSec live, all isn't lost. The entire event can be enjoyed w
 - Be - How We Win: Neurodiversity for Belonging, Security, and Village  15:05 EDT/14:05 CDT/12:05 PDT/05:05 AEST/20:05 BST/21:05 CEST
 
 - DisInfoSec Outro, featuring Kim Crawley 16:05 EDT/15:05 CDT/13:05 PDT/06:05 AEST/21:05 BST/22:05 CEST
-
-## Be notified about DisInfoSec!
-
-[Click here to sign up for the email list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) to be notified with news about DisInfoSec.
-
 
 
 ## Who is DisInfoSec?
