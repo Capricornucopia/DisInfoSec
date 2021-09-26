@@ -4,7 +4,7 @@
 
 DisInfoSec 2022 will take place sometime in September 2022. Our CFP will be announced a few months before the event. 
 
-If you want updates in 2022, subscribe to [our mailing list]((https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/)) or [follow our Twitter](https://twitter.com/DisInfoSec).
+If you want updates in 2022, subscribe to [our mailing list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) or [follow our Twitter](https://twitter.com/DisInfoSec).
 
 ## DisInfoSec 2021, Saturday September 18th
 
