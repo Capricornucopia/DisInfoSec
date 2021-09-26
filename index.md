@@ -45,32 +45,32 @@ Visit [@DisInfosec on Twitter](https://twitter.com/DisInfoSec).
 
 ## Discord
 
-Moira Davrie set up a Discord channel for DisInfoSec. Click here for it.
+Moira Davrie set up a Discord channel for DisInfoSec. [Click here for it](https://discord.com/invite/mchx6Whqr6).
 
 
 ## DisInfoSec 2021 Schedule
 
-Welcoming Introduction by Kim Crawley 10:25am EDT/9:25am CDT/7:25am PDT
+- Welcoming Introduction by Kim Crawley 10:25am EDT/9:25am CDT/7:25am PDT
 
-Rodrigo Ferreira - Cybercrime Underground: A Look From Inside 10:30am EDT/9:30am CDT/7:30am PDT
+- Rodrigo Ferreira - Cybercrime Underground: A Look From Inside 10:30am EDT/9:30am CDT/7:30am PDT
 
-Larisa Breton - Squirrel!!! Navigating Cybersecurity with a Cognitive Disability 10:50am EDT/9:50am CDT/7:50am PDT
+- Larisa Breton - Squirrel!!! Navigating Cybersecurity with a Cognitive Disability 10:50am EDT/9:50am CDT/7:50am PDT
 
-Kim Crawley - 8 Steps to Better Security: Book Preview 11:30am EDT/10:30am CDT/8:30am PDT
+- Kim Crawley - 8 Steps to Better Security: Book Preview 11:30am EDT/10:30am CDT/8:30am PDT
 
-Kiran Oliver - Leveraging Neurodivergence in InfoSec 12:10pm EDT/11:10am CDT/9:10pm PDT
+- Kiran Oliver - Leveraging Neurodivergence in InfoSec 12:10pm EDT/11:10am CDT/9:10pm PDT
 
-Jess Schalz - On-Call Exhaustion, Tightropes, and You 12:50pm EDT/11:50am CDT/9:50am PDT
+- Jess Schalz - On-Call Exhaustion, Tightropes, and You 12:50pm EDT/11:50am CDT/9:50am PDT
 
-Jessica Tubbs - Spin Class: A Neurodiverse Hacker's Guide to Career Advancement 1:30pm EDT/12:30pm CDT/10:30am PDT
+- Jessica Tubbs - Spin Class: A Neurodiverse Hacker's Guide to Career Advancement 1:30pm EDT/12:30pm CDT/10:30am PDT
 
-Kat Sweet - Dietary Accessibility in Tech Workplaces 2:30pm EDT/1:30pm CDT/11:30pm PDT
+- Kat Sweet - Dietary Accessibility in Tech Workplaces 2:30pm EDT/1:30pm CDT/11:30pm PDT
 
-Catherine De Mesa - Impostor Syndrome vs Bad HR: Maximizing Your Job Hunt 4:00pm EDT/3:00pm CDT/1:00pm PDT
+- Catherine De Mesa - Impostor Syndrome vs Bad HR: Maximizing Your Job Hunt 4:00pm EDT/3:00pm CDT/1:00pm PDT
 
-Florian Beijers - Hacking Blind: On Hacking with a Screenreader 4:40pm EDT/3:40pm CDT/1:40pm PDT
+- Florian Beijers - Hacking Blind: On Hacking with a Screenreader 4:40pm EDT/3:40pm CDT/1:40pm PDT
 
-Closing Chat by Kim Crawley 5:00pm EDT/4:00pm CDT/2:00pm PDT
+- Closing Chat by Kim Crawley 5:00pm EDT/4:00pm CDT/2:00pm PDT
 
 
 
