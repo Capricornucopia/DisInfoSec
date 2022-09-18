@@ -1,10 +1,14 @@
 ![DisInfoSec](DisInfoSec_Logo.png)
 
-## Look forward to DisInfoSec 2022
+## Look forward to DisInfoSec 2023
 
-DisInfoSec 2022 will take place sometime in September 2022. Our CFP will be announced a few months before the event. 
+DisInfoSec 2022 isn't happening! Sorry, Kim Crawley got distracted by career and pandemic related stuff. But the good news is that DisInfoSec 2023 is happening in on Saturday, January 14th, 2023. That means the event has only been delayed for a few months from its original September 2022 date.
 
-If you want updates in 2022, subscribe to [our mailing list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) or [follow our Twitter](https://twitter.com/DisInfoSec).
+If you want updates, subscribe to [our mailing list](https://docs.google.com/forms/d/1X3HTdzNinI7gmcAe9ahM4IRtVGzmjwFBqNJ1xfXvE8Y/) or [follow our Twitter](https://twitter.com/DisInfoSec).
+
+## DisInfoSec 2023 Call for Proposals (CFP)!
+
+If you are self-identified as disabled and have something to say about cybersecurity regardless of your credentials, feel free to submit a CFP for DisInfoSec 2023. The deadline is Friday, December 23rd, 2022, and you will be notified by Friday, December 30th, 2022. [Click here for the CFP form](https://forms.gle/YKzXEps78iEHUA3LA).
 
 ## DisInfoSec 2021, Saturday September 18th
 
