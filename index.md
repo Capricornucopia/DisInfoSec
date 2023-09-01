@@ -86,23 +86,23 @@ If you missed DisInfoSec live, all isn't lost. The entire event can be enjoyed w
 
 ## DisInfoSec 2020 Schedule
 
-- DisInfoSec Intro, featuring Kim Crawley 09:40 EDT/8:40 CDT/6:40 PDT/23:40 AEST/14:40 BST/15:40 CEST
+- [DisInfoSec Intro, featuring Kim Crawley](https://www.youtube.com/watch?v=SZrThZvnUiI&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L) 09:40 EDT/8:40 CDT/6:40 PDT/23:40 AEST/14:40 BST/15:40 CEST
 
-- Asher Lee - A day in the life of a cyber nerd… 10:05 EDT/9:05 CDT/7:05 PDT/00:05 AEST/15:05 BST/16:05 CEST
+- [Asher Lee - A day in the life of a cyber nerd…](https://www.youtube.com/watch?v=fmH5rLiXZ-8&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L) 10:05 EDT/9:05 CDT/7:05 PDT/00:05 AEST/15:05 BST/16:05 CEST
 
-- Sirani Alice McNeill - About malware and reverse engineering on how it impacts users in the cybersecurity format  11:05 EDT/10:05 CDT/8:05 PDT/01:05 AEST/16:05 BST/17:05 CEST
+- [Sirani Alice McNeill - About malware and reverse engineering on how it impacts users in the cybersecurity format](https://www.youtube.com/watch?v=s8GCh6ZZI8k&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)  11:05 EDT/10:05 CDT/8:05 PDT/01:05 AEST/16:05 BST/17:05 CEST
 
-- Kim Crawley - Cybersecurity Blogging Greatest Hits 12:00 EDT/11:00 CDT/9:00 PDT/02:00 AEST/17:00 BST/18:00 CEST
+- [Kim Crawley - Cybersecurity Blogging Greatest Hits](https://www.youtube.com/watch?v=Labgu3HAdwE&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L) 12:00 EDT/11:00 CDT/9:00 PDT/02:00 AEST/17:00 BST/18:00 CEST
 
-- Thinker - So you want to start an information security program?  12:30 EDT/11:30 CDT/9:30 PDT/02:30 AEST/17:30 BST/18:30 CEST
+- [Thinker - So you want to start an information security program?](https://www.youtube.com/watch?v=XSoGlOEP_h8&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)  12:30 EDT/11:30 CDT/9:30 PDT/02:30 AEST/17:30 BST/18:30 CEST
 
-- Spencer Hunley - Ain’t No Party Like A CryptoParty: Educating & Teaching Disabled Folx How To Protect Themselves In Digital Spaces  13:05 EDT/12:05 CDT/10:05 PDT/03:05 AEST/18:05 BST/19:05 CEST
+- [Spencer Hunley - Ain’t No Party Like A CryptoParty: Educating & Teaching Disabled Folx How To Protect Themselves In Digital Spaces](https://www.youtube.com/watch?v=hTkybvXtSxc&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)  13:05 EDT/12:05 CDT/10:05 PDT/03:05 AEST/18:05 BST/19:05 CEST
 
-- Tanya Janca - Purple is the new black: Modern Approaches to Application Security 13:35 EDT/12:35 CDT/10:35 PDT/03:35 AEST/18:35 BST/19:35 CEST
+- [Tanya Janca - Purple is the new black: Modern Approaches to Application Security](https://www.youtube.com/watch?v=1o6-I7sgbtY&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L) 13:35 EDT/12:35 CDT/10:35 PDT/03:35 AEST/18:35 BST/19:35 CEST
 
-- Michael Mittelman featuring Andrea Downing - ePatients: Hacking Healthcare one Community at a Time  14:35 EDT/13:35 CDT/11:35 PDT/04:35 AEST/19:35 BST/20:35 CEST
+- [Michael Mittelman featuring Andrea Downing - ePatients: Hacking Healthcare one Community at a Time](https://www.youtube.com/watch?v=QHGVNOhWc0c&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)  14:35 EDT/13:35 CDT/11:35 PDT/04:35 AEST/19:35 BST/20:35 CEST
 
-- Be - How We Win: Neurodiversity for Belonging, Security, and Village  15:05 EDT/14:05 CDT/12:05 PDT/05:05 AEST/20:05 BST/21:05 CEST
+- [Be - How We Win: Neurodiversity for Belonging, Security, and Village](https://www.youtube.com/watch?v=HVqkV0JaPEU&list=PLU7Sd0fGdnTuRdyVgXh_L4pvVyJe9hV3L)  15:05 EDT/14:05 CDT/12:05 PDT/05:05 AEST/20:05 BST/21:05 CEST
 
 - DisInfoSec Outro, featuring Kim Crawley 16:05 EDT/15:05 CDT/13:05 PDT/06:05 AEST/21:05 BST/22:05 CEST
 
